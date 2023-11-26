@@ -1,5 +1,5 @@
-- Open Source and cloud native enthusiast, Book Author, a trusted cloud native adviser for customers.
-- 13 years’ work experience in Open Source, JBoss, Linux, Java, Data, Infrastructure (Load Balancer), 10 years in APP DEV and 3 years in Infrastructure, 8 years as Software Engineer, with good hands-on capacity in APP DEV. 
+- Open Source Veteran, Cloud Enthusiast, Book Author, Trusted Adviser, AI Practitioner.
+- 15 years’ work experience in Open Source, Cloud, JBoss, Linux, Java, Data, Infrastructure, 10 years in APP DEV and 5 years in Infrastructure.
 - JBoss Community Member & Committer. Cross country project experience and global team coordination and collaboration experience.
 - The familiar domain includes technical selling, Open-Source, Programming, Solutions; Classic Java EE and modern Microservice Architecture; Kubernetes/OpenShift ecosystem, and Modern DevOps process and technical stack.
 - Author of Book《Financial IT Architecture and Operation》(https://item.jd.com/10046603928999.html[link]), Published by China Machine Press, it’s about the cloud native application, distributed architecture and security.
