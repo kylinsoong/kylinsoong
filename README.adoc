@@ -1,10 +1,8 @@
-- Open Source Veteran, Cloud Enthusiast, Book Author, Trusted Adviser, AI Practitioner.
-- 15 years’ work experience in Open Source, Cloud, JBoss, Linux, Java, Data, Infrastructure, 10 years in APP DEV and 5 years in Infrastructure.
-- JBoss Community Member & Committer. Cross country project experience and global team coordination and collaboration experience.
-- The familiar domain includes technical selling, Open-Source, Programming, Solutions; Classic Java EE and modern Microservice Architecture; Kubernetes/OpenShift ecosystem, and Modern DevOps process and technical stack.
-- Author of Book《Financial IT Architecture and Operation》(https://item.jd.com/10046603928999.html[link]), Published by China Machine Press, it’s about the cloud native application, distributed architecture and security.
-- A Core Developer of Open Source JBoss community product Teiid, WildFly Swarm, and committers of other JBoss projects like jBPM, Drools, Infinispan.
-- A Reviewer of 《WildFly Performance Tuning》, 《WildFly Cookbook》 Packt Publishing.
+- Open-Source Veteran, AI Enthusiast, Cloud Practitioner, Oversea Working Experience, Book Author, Customer’s Trusted Adviser, 15 years’ work experience, 7 years as Customer Facing Consultant/Pre-Sales Solutions Engineer, 8 years as Software Developer Engineer.
+- Proficient in AI and Cloud Computing, Microsoft certified Azure AI Engineer, earned Azure AI 900, AI 102 certification; Gold membership of Google Cloud Innovators Plus community, earning 65k points via Labs, Quests, Quizzes, Graded assignment and AI course in Google Cloud Platform, Google Cloud certified Cloud Architect, Cloud Engineer, Cloud Developer, Cloud DevOps Engineer, Cloud Network Engineer.
+- Strong Application development, application modernization ability, A Core Developer of Open Source JBoss community product Teiid(teiid.io, a data virtualization project), WildFly, and committers of other JBoss projects like jBPM, Drools, Infinispan. 
+- Knowledge of Data Center Infrastructure architecture and Data Center modernization, L4-L7 Networking concepts and scenarios, including Load Balancer, Firewall, L7 Security, CDN, etc, L2-L3 Networking concepts.
+- Author of Book《Financial IT Architecture and Operation》(https://item.jd.com/10046603928999.html[link]), Published by China Machine Press, A Reviewer of 《WildFly Performance Tuning》, 《WildFly Cookbook》 Packt Publishing.
 
 
 
